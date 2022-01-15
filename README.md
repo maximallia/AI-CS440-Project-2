@@ -1,4 +1,4 @@
-# CS440-Intro-AI-Project-2
+# CS440-Intro-AI-Project-2-Minesweeper
 
 Summary:
 
